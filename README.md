@@ -1,1 +1,1 @@
-Objective: Practice Git branching, merging, and conflict resolution.
+Objective: Practice branching, merging, and resolving conflicts.
